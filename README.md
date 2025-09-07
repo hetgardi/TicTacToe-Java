@@ -18,7 +18,7 @@ A simple two-player Tic-Tac-Toe game you can play in your terminal, written in J
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/hetgardi/TicTacToe-Java.git>
    cd TicTacToe
    ```
 
